@@ -1,0 +1,89 @@
+@charset "UTF-8";
+body{
+	padding:0;
+	margin:0;
+}
+
+img{position: absolute;}
+
+.heart1{
+	left: 1220px;
+	top: 1008px;
+	z-index:10000;
+}
+
+.hearts{
+	left:-29px;
+	top:235px;
+	
+	
+}
+
+.likes{
+	left:106px;
+	top: 141px;
+	
+}
+
+
+.comment{
+	left:2088px;
+	top: 1259px;
+	
+	
+}
+
+.hatecomments{
+	left:31px;
+	top:19px;
+}
+
+.lock{
+	left:1845;
+	top:2428;
+}
+
+
+
+.animalcage1{
+	left:91px;
+	top:0px;
+	
+}
+
+.instagramzoo{
+	left:737px;
+	top: 234px;
+}
+		
+.logout{
+	left:1078px;
+	top: 1042px;
+	
+}
+
+ .lionsandgiraffes{
+	left:2738px;
+	top:113px;
+	
+}
+	
+.zebraarrow{
+	left:2782px;
+	top:2033px;
+}
+	
+.exitarrow{
+	left:2688px;
+	top:2015px;
+	
+}
+
+	
+	
+
+	
+	
+
+
+
